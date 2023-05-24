@@ -7,8 +7,7 @@ export const Catalog = () => {
     <div className="flex gap-4">
       <Sidebar />
       <div className="grid grid-cols-12 w-full gap-4">
-        <img src="/images/group.png" className="w-full col-span-9" />
-        {/* <div className="col-span-9 p-4 w-full bg-primary-1 rounded-xl">
+        <div className="col-span-9 p-4 w-full bg-primary-1 rounded-xl">
           <h1 className="font-StyreneAWebBold text-lg">
             Games <span className="text-primary-4"> Bet Win </span>
           </h1>
@@ -34,7 +33,7 @@ export const Catalog = () => {
           <div className="">
             
           </div>
-        </div> */}
+        </div>
       </div>
     </div>
   )

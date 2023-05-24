@@ -4,9 +4,9 @@ import React from 'react'
 export default function Home() {
   return (
     <div>
-      <Header/>
-      <Catalog/>
-      <Footer/>
+      <Header />
+      <Catalog />
+      <Footer />
     </div>
   )
 }
