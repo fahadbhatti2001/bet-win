@@ -16,7 +16,7 @@ export const Catalog = () => {
               <p className="">All Games</p>
               <p className="">Slot games</p>
               <p className="">Casino games</p>
-              <p className="">Live casino</p>
+              <p className="">Live. casino</p>
               <p className="">Qwest</p>
             </div>
             <div className="flex items-center gap-6 py-2 font-StyreneAWebRegular text-white">
