@@ -22,7 +22,7 @@ export const Footer = () => {
                 <img src="/images/payment/payment9.png" className="opacity-50 saturate-50 hue-rotate-30 brightness-75 contrast-50" />
             </div>
             <span className="h-0.5 w-full bg-zinc-500/20 block my-6"></span>
-            <p className="font-StyreneAWebRegular text-zinc-500">© 2022 Cassbet.com. | All Rights Reserved.</p>
+            <p className="font-StyreneAWebRegular text-zinc-500">© 2022 Cassbet.com | All Rights Reserved.</p>
         </footer>
     )
 }
