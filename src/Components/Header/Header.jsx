@@ -27,7 +27,7 @@ export const Header = () => {
                     </button>
                 </div>
                 <div className="flex justify-center items-center">
-                    <button className="py-2 px-8 rounded group transition-all duration-150 ease-in-out flex items-center gap-1 bg-color" type="button" >
+                    <button className="py-2 px-8 rounded group transition-all duration-150 ease-in-out flex items-center gap-1 bg-color" type="button">
                         <p className="text-white">Sign up</p>
                     </button>
                 </div>
