@@ -1,6 +1,7 @@
 import React from 'react'
 export const Footer = () => {
     return (
+
         <footer className="py-6 px-20 bg-primary-2">
             <div className="flex items-center gap-12">
                 <img src="/images/second-logo.png" className="" />
