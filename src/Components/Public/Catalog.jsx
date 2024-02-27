@@ -5,7 +5,7 @@ import { ChevronRightIcon, ChevronLeftIcon, MagnifyingGlassIcon } from '@heroico
 export const Catalog = () => {
   
   return (
-    <div className="flex gap-4">
+    <div className="flex gap-4 justify-center">
       <Sidebar />
       <div className="grid grid-cols-12 w-full gap-4">
         <div className="col-span-9 p-4 w-full bg-primary-1 rounded-xl">
