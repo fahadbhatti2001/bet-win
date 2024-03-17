@@ -1,7 +1,7 @@
 import React from 'react, {useState}'
 import { MagnifyingGlassIcon } from '@heroicons/react/24/solid'
 
-export const Header = () => {
+export const Header = () => { 
     return (
         <nav className="p-4 flex justify-between items-center w-full" >
             <div className="flex gap-6">
