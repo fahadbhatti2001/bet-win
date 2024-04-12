@@ -1,5 +1,6 @@
 import React from 'react, {useState}'
 import { MagnifyingGlassIcon } from '@heroicons/react/24/solid'
+
 export const Header = () => { 
     return (
         <nav className="p-4 flex justify-between items-center w-full" >
