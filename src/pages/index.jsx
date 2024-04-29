@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <Header />
-        <Catalog />
+       // <Catalog />
       <Footer />
     </div>
   )
