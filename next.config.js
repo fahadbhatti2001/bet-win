@@ -3,7 +3,7 @@ const nextConfig = {
   trailingSlash: true,
   reactStrictMode: true,
   images: {
-    unoptimized: true,
+    unoptimized: false,
   },
 };
 
