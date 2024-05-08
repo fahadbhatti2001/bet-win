@@ -2,7 +2,8 @@ import React from 'react'
 
 export const Sidebar = () => {
   return (
-    <div className="">
-djjd</div>
+    <div className="px-6 bg-zinc-600">
+hello
+</div>
   )
 }
