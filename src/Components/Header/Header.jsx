@@ -4,7 +4,7 @@ import { MagnifyingGlassIcon } from '@heroicons/react/24/solid'
 export const Header = () => { 
     return (
         <nav className="flex justify-between items-center w-full" >
-            <div className="flex gap-6">
+            <div className="flex gap-8">
                <img src="/images/logo.png" className="w-14" />
                 <div className="flex justify-center items-center">
                     <button className="py-2 px-4 rounded group transition-all duration-150 ease-in-out flex items-center gap-1 bg-primary-1 hover:bg-primary-2" type="button" >
