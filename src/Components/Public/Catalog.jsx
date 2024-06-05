@@ -3,7 +3,6 @@ import { Sidebar } from "@/Components"
 import { ChevronRightIcon, ChevronLeftIcon, MagnifyingGlassIcon } from '@heroicons/react/24/solid'
 
 export const Catalog = () => {
-  
   return (
     <div className="flex gap-4 justify-center">
       <Sidebar />
