@@ -5,7 +5,7 @@ import "@/styles/globals.css";
 
 export default function App({ Component, pageProps }) {
   useEffect(() => {
-    const use = async () => {
+    chonst use = async () => {
       await import("tw-elements");
     };
     use();
